@@ -1278,7 +1278,7 @@ ua = []
 
 del ua
 """
-Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 [FBAN/FBIOS;FBDV/iPhone10,6;FBMD/iPhone;FBSN/iOS;FBSV/16.1.2;FBSS/3;FBID/phone;FBLC/fr_FR;FBOP/5]
+Mozilla/0.1 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20B110 [FBAN/FBIOS;FBDV/iPhone10,6;FBMD/iPhone;FBSN/iOS;FBSV/16.1.2;FBSS/3;FBID/phone;FBLC/fr_FR;FBOP/5]
 """
 
 ua=[]
@@ -1364,7 +1364,7 @@ Mozilla/5.0 (Linux; Android 6.0.1; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWe
 ####
 
 
-def method():
+def method():2
     okacc = []
     cpacc = []
     totalpass = []
